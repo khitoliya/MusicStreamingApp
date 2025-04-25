@@ -68,6 +68,18 @@
 7. **Build and run the app on a physical/emulated device**
 
 ## 📸 Screenshots
+<p align="center">
+   <img src="screenshots/Splashscreen.png" width="200"/>
+  <img src="screenshots/GettingStarted.png" width="200"/>
+   <img src="screenshots/Login.png" width="200"/>
+  <img src="screenshots/ResetPassword.png" width="200"/>
+  <img src="screenshots/Verificationemail.png" width="200"/>
+  <img src="screenshots/HomeScreen.png" width="200"/>
+  <img src="screenshots/exploreSection.png" width="200"/>
+  <img src="screenshots/PlayerScreen.png" width="200"/>
+  <img src="screenshots/miniPlayer.png" width="200"/>
+</p>
+
 
 
 ## 💡 Future Plans
