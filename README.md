@@ -85,12 +85,10 @@
 ## 💡 Future Plans
 🗣️ Voice search
 
-🌙 Dark theme
+☀️ Light theme
 
 📤 Upload interface for admin
 
 📥 Offline downloads
-
-🔁 Shuffle/Repeat modes
 
 💬 Comments & Lyrics support
